@@ -202,4 +202,4 @@ Use the button in the Quick Start section.
 
 ---
 
-*GTA 5 Online · Updated 2026-11-19 · Shared under the MIT License*
+*GTA 5 Online · Updated 2026-11-20 · Shared under the MIT License*
